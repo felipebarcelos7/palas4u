@@ -1,2 +1,2 @@
 # palas4u
-Plataforma de Agendamento de professores
+Plataforma de aula de Inglês! 
